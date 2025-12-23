@@ -1,0 +1,8 @@
+kivy>=2.1.0
+opencv-python
+numpy
+plyer
+requests
+python-dotenv
+# Optional if you want YOLOv8:
+ultralytics
